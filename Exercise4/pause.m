@@ -1,0 +1,3 @@
+function pause()
+  input('');
+endfunction
